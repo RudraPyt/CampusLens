@@ -7,19 +7,13 @@ app = FastAPI(title="CampusLens API")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "http://localhost:5173",
-        "https://campuslens8.netlify.app"
-    ],
-    allow_credentials=True,
+    allow_origins=["*"],
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-# Create DB tables on startup
 create_tables()
-
-# Register routes
 app.include_router(student_router)
 
 @app.get("/")
