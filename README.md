@@ -26,7 +26,6 @@ In RTU-affiliated engineering colleges, there is **zero early warning system** f
 
 CampusLens is a full-stack AI system that **predicts student academic risk 2–4 weeks before it becomes irreversible** — combining RTU-specific rules, a trained Machine Learning model, and an AI-powered personalized recovery plan.
 
-> *"Meet Rahul. It's Week 5. CampusLens flagged him 3 weeks ago with 99% confidence. Here's exactly what it told him to do."*
 
 ---
 
