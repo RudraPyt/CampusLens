@@ -166,7 +166,8 @@ CampusLens/
 
 > Dashboard with risk cards, ML probability charts, and AI recovery plans
 
-*Add screenshots here after deployment*
+<img width="1676" height="1049" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/c7441f05-4d77-46fc-a8c6-4ac6879e43f8" />
+
 
 ---
 
