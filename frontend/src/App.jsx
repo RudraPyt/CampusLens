@@ -2,7 +2,7 @@ import { useState, useEffect } from "react"
 import axios from "axios"
 import { PieChart, Pie, Cell, Tooltip, ResponsiveContainer } from "recharts"
 
-const API = "http://localhost:8000"
+const API = "https://campuslens-y388.onrender.com"
 const RISK_COLORS = { HIGH: "#ef4444", MEDIUM: "#f59e0b", LOW: "#22c55e" }
 
 function stressColor(level) {
