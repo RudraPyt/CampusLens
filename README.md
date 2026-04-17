@@ -114,8 +114,7 @@ Start the backend:
 ```bash
 uvicorn app.main:app --reload
 ```
-Backend runs at: `http://localhost:8000`
-API Docs at: `http://localhost:8000/docs`
+Backend runs at: `https://campuslens-y388.onrender.com`
 
 ### Frontend Setup
 ```bash
@@ -123,7 +122,7 @@ cd frontend
 npm install
 npm run dev
 ```
-Frontend runs at: `http://localhost:5173`
+Frontend runs at: `https://campuslens8.netlify.app/`
 
 ---
 
